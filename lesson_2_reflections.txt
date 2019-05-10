@@ -13,3 +13,11 @@ Experimental changes that I might throw away.
 
 How do the diagrams help you visualize the branch structure?
 Know what might be lost
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+The changes of one are merged into the other.
+Not sure.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+faster
+less prone to operator error
