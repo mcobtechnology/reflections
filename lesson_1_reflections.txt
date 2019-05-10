@@ -1,0 +1,27 @@
+How did viewing a diff between two versions of a file help you see the bug that was introduced?
+It highlights what has changed.
+It prevents eyeballing every line.
+It speeds up the checking process.
+
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+Eliminates taking multiple manual copies.
+Allows tracking earlier changes.
+
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
+A pro is you can fine tune the granularity of working.
+A con is that you may forget to commit over time.
+
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+Some ways of working lead to lots of content in single files.
+Modular coding leads to multiple smaller files.
+
+How can you use the commands git log and git diff to view the history of files?
+Remember that git log is from bottom to top, old to new
+Get the commit you want, and compare to the one below
+
+How might using version control make you more confident to make changes that could break something?
+Very easy to get back to a prior version.
+Easy (kinda) to work through history.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+Amend the vagrant readme file
